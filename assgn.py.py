@@ -19,7 +19,7 @@ def prime_num():
     print(f"The average of the prime numbers below {Val} is",average)
     
 prime_num()
-    
+    # I Millicent Adom pledge that I did this assignment by myself
         
     
                 
